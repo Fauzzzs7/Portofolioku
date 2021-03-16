@@ -113,7 +113,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #fff;
+    color: rgb(248, 244, 244);
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -123,12 +123,12 @@ section .title::after{
     color: crimson;
 }
 .navbar.sticky .menu li a:hover{
-    color: #fff;
+    color: rgb(250, 249, 249);
 }
 
 /* menu btn styling */
 .menu-btn{
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-size: 23px;
     cursor: pointer;
     display: none;
@@ -367,10 +367,10 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .php::before{
+.skills-content .right .mysql::before{
     width: 50%;
 }
-.skills-content .right .mysql::before{
+.skills-content .right .fotografi::before{
     width: 70%;
 }
 
